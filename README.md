@@ -9,8 +9,8 @@
 
 ## Derive
 
-<p align="center">
-<img src="https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Derivatives.png"/>
+![alt text](https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Derivatives.png)
+
 </p>
 
 ## Integrate
@@ -36,6 +36,8 @@
 </p>
 
 ## Find eigenvalue and eigenvectors
+
+![alt text](https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Eigenvalue.png)
 
 <p align="center">
 <img src="https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Eigenvalue.png"/>
