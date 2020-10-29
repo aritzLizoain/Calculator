@@ -15,42 +15,28 @@
 
 ## Integrate
 
-<p align="center">
-<img src="https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Integrals.png"/>
+![alt text](https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Integrals.png)
+
 </p>
 
 ## Plot
 
-<p align="center">
-<img src="https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Plots.png"/>
-</p>
+![alt text](https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Plots.png)
 
-<p align="center">
-<img src="https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Plots2.png"/>
-</p>
+![alt text](https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Plots2.png)
 
 ## Find intersecting points
 
-<p align="center">
-<img src="https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Intersection.png"/>
-</p>
+![alt text](https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Intersection.png)
 
 ## Find eigenvalue and eigenvectors
 
 ![alt text](https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Eigenvalue.png)
 
-<p align="center">
-<img src="https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Eigenvalue.png"/>
-</p>
-
 ## Perform matrix operations
 
-<p align="center">
-<img src="https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Matrix.png"/>
-</p>
+![alt text](https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Matrix.png)
 
 ## Solve systems of equations
 
-<p align="center">
-<img src="https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/System.png"/>
-</p>
+![alt text](https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/System.png)
