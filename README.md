@@ -2,7 +2,6 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/aritzLizoain/Calculator)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aritzLizoain/Calculator)
-[![](https://tokei.rs/b1/github/aritzLizoain/Calculator?category=lines)](https://github.com/aritzLizoain/Calculator) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/aritzLizoain/Calculator?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/aritzLizoain/Calculator?style=social)
 
