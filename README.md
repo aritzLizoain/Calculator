@@ -9,13 +9,11 @@
 
 ## Derive
 
-<https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Derivatives.png> 
+<p align="center">
+<img src="https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Derivatives.png"/>
+</p>
 
-
-https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Derivatives.png
-
-
-[Image derivatives](https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Derivatives.png)
+![alt text](https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Derivatives.png)
 
 ## Integrate
 
