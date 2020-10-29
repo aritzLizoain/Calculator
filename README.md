@@ -13,28 +13,42 @@
 <img src="https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Derivatives.png"/>
 </p>
 
-![alt text](https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Derivatives.png)
-
 ## Integrate
 
-Image integrals
+<p align="center">
+<img src="https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Integrals.png"/>
+</p>
 
 ## Plot
 
-Image plot types
+<p align="center">
+<img src="https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Plots.png"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Plots2.png"/>
+</p>
 
 ## Find intersecting points
 
-Image plot2D and intersection value
+<p align="center">
+<img src="https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Intersection.png"/>
+</p>
 
 ## Find eigenvalue and eigenvectors
 
-Image eigenvalue and eigenvectors
+<p align="center">
+<img src="https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Eigenvalue.png"/>
+</p>
 
 ## Perform matrix operations
 
-Image matrix operations
+<p align="center">
+<img src="https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Matrix.png"/>
+</p>
 
 ## Solve systems of equations
 
-Image systems of equations
+<p align="center">
+<img src="https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/System.png"/>
+</p>
