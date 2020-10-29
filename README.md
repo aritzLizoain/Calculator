@@ -9,7 +9,13 @@
 
 ## Derive
 
-Image derivatives
+<https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Derivatives.png> 
+
+
+https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Derivatives.png
+
+
+[Image derivatives](https://github.com/aritzLizoain/Calculator/blob/main/Screenshots/Derivatives.png)
 
 ## Integrate
 
