@@ -1,3 +1,12 @@
+(*//////////////////////////////////////////////////////////////////////////////////////////
+// Original author: Aritz Lizoain
+// Github: https://github.com/aritzLizoain
+// My personal website: https://aritzlizoain.github.io/
+// Description: Wolfram Mathematica Calculator
+// Copyright 2020, Aritz Lizoain.
+// License: MIT License
+//////////////////////////////////////////////////////////////////////////////////////////*)
+
 (* Content-type: application/vnd.wolfram.mathematica *)
 
 (*** Wolfram Notebook File ***)
